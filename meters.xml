@@ -1,0 +1,391 @@
+<result>
+    <item>
+        <name>image.size</name>
+        <type>gauge</type>
+        <unit>B</unit>
+        <resource_id>0447abd8-cbb2-4b66-9095-b598c37ff3d3</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id nil="true" />
+        <source>openstack</source>
+        <meter_id>MDQ0N2FiZDgtY2JiMi00YjY2LTkwOTUtYjU5OGMzN2ZmM2QzK2ltYWdlLnNpemU=
+</meter_id>
+    </item>
+    <item>
+        <name>image.size</name>
+        <type>gauge</type>
+        <unit>B</unit>
+        <resource_id>93dc59fa-22e6-445c-9c0f-3f21d5c1c134</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id nil="true" />
+        <source>openstack</source>
+        <meter_id>OTNkYzU5ZmEtMjJlNi00NDVjLTljMGYtM2YyMWQ1YzFjMTM0K2ltYWdlLnNpemU=
+</meter_id>
+    </item>
+    <item>
+        <name>image</name>
+        <type>gauge</type>
+        <unit>image</unit>
+        <resource_id>0447abd8-cbb2-4b66-9095-b598c37ff3d3</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id nil="true" />
+        <source>openstack</source>
+        <meter_id>MDQ0N2FiZDgtY2JiMi00YjY2LTkwOTUtYjU5OGMzN2ZmM2QzK2ltYWdl
+</meter_id>
+    </item>
+    <item>
+        <name>image</name>
+        <type>gauge</type>
+        <unit>image</unit>
+        <resource_id>93dc59fa-22e6-445c-9c0f-3f21d5c1c134</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id nil="true" />
+        <source>openstack</source>
+        <meter_id>OTNkYzU5ZmEtMjJlNi00NDVjLTljMGYtM2YyMWQ1YzFjMTM0K2ltYWdl
+</meter_id>
+    </item>
+    <item>
+        <name>vcpus</name>
+        <type>gauge</type>
+        <unit>vcpu</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K3ZjcHVz
+</meter_id>
+    </item>
+    <item>
+        <name>instance:m1.tiny</name>
+        <type>gauge</type>
+        <unit>instance</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K2luc3RhbmNlOm0xLnRpbnk=
+</meter_id>
+    </item>
+    <item>
+        <name>instance</name>
+        <type>gauge</type>
+        <unit>instance</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K2luc3RhbmNl
+</meter_id>
+    </item>
+    <item>
+        <name>memory</name>
+        <type>gauge</type>
+        <unit>MB</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K21lbW9yeQ==
+</meter_id>
+    </item>
+    <item>
+        <name>disk.root.size</name>
+        <type>gauge</type>
+        <unit>GB</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K2Rpc2sucm9vdC5zaXpl
+</meter_id>
+    </item>
+    <item>
+        <name>disk.ephemeral.size</name>
+        <type>gauge</type>
+        <unit>GB</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K2Rpc2suZXBoZW1lcmFsLnNpemU=
+</meter_id>
+    </item>
+    <item>
+        <name>image.download</name>
+        <type>delta</type>
+        <unit>B</unit>
+        <resource_id>0447abd8-cbb2-4b66-9095-b598c37ff3d3</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>MDQ0N2FiZDgtY2JiMi00YjY2LTkwOTUtYjU5OGMzN2ZmM2QzK2ltYWdlLmRvd25sb2Fk
+</meter_id>
+    </item>
+    <item>
+        <name>image.serve</name>
+        <type>delta</type>
+        <unit>B</unit>
+        <resource_id>0447abd8-cbb2-4b66-9095-b598c37ff3d3</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id nil="true" />
+        <source>openstack</source>
+        <meter_id>MDQ0N2FiZDgtY2JiMi00YjY2LTkwOTUtYjU5OGMzN2ZmM2QzK2ltYWdlLnNlcnZl
+</meter_id>
+    </item>
+    <item>
+        <name>network.outgoing.bytes</name>
+        <type>cumulative</type>
+        <unit>B</unit>
+        <resource_id>nova-instance-instance-00000042-fa163e8b1cd7</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>bm92YS1pbnN0YW5jZS1pbnN0YW5jZS0wMDAwMDA0Mi1mYTE2M2U4YjFjZDcrbmV0d29yay5vdXRn
+b2luZy5ieXRlcw==
+</meter_id>
+    </item>
+    <item>
+        <name>disk.device.read.requests</name>
+        <type>cumulative</type>
+        <unit>request</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656-vda</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2LXZkYStkaXNrLmRldmljZS5yZWFk
+LnJlcXVlc3Rz
+</meter_id>
+    </item>
+    <item>
+        <name>disk.write.requests</name>
+        <type>cumulative</type>
+        <unit>request</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K2Rpc2sud3JpdGUucmVxdWVzdHM=
+</meter_id>
+    </item>
+    <item>
+        <name>network.incoming.bytes</name>
+        <type>cumulative</type>
+        <unit>B</unit>
+        <resource_id>nova-instance-instance-00000042-fa163e8b1cd7</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>bm92YS1pbnN0YW5jZS1pbnN0YW5jZS0wMDAwMDA0Mi1mYTE2M2U4YjFjZDcrbmV0d29yay5pbmNv
+bWluZy5ieXRlcw==
+</meter_id>
+    </item>
+    <item>
+        <name>network.incoming.packets</name>
+        <type>cumulative</type>
+        <unit>packet</unit>
+        <resource_id>nova-instance-instance-00000042-fa163e8b1cd7</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>bm92YS1pbnN0YW5jZS1pbnN0YW5jZS0wMDAwMDA0Mi1mYTE2M2U4YjFjZDcrbmV0d29yay5pbmNv
+bWluZy5wYWNrZXRz
+</meter_id>
+    </item>
+    <item>
+        <name>network.outgoing.packets</name>
+        <type>cumulative</type>
+        <unit>packet</unit>
+        <resource_id>nova-instance-instance-00000042-fa163e8b1cd7</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>bm92YS1pbnN0YW5jZS1pbnN0YW5jZS0wMDAwMDA0Mi1mYTE2M2U4YjFjZDcrbmV0d29yay5vdXRn
+b2luZy5wYWNrZXRz
+</meter_id>
+    </item>
+    <item>
+        <name>cpu</name>
+        <type>cumulative</type>
+        <unit>ns</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K2NwdQ==
+</meter_id>
+    </item>
+    <item>
+        <name>disk.device.write.requests</name>
+        <type>cumulative</type>
+        <unit>request</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656-vda</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2LXZkYStkaXNrLmRldmljZS53cml0
+ZS5yZXF1ZXN0cw==
+</meter_id>
+    </item>
+    <item>
+        <name>disk.write.bytes</name>
+        <type>cumulative</type>
+        <unit>B</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K2Rpc2sud3JpdGUuYnl0ZXM=
+</meter_id>
+    </item>
+    <item>
+        <name>disk.read.requests</name>
+        <type>cumulative</type>
+        <unit>request</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K2Rpc2sucmVhZC5yZXF1ZXN0cw==
+</meter_id>
+    </item>
+    <item>
+        <name>disk.device.write.bytes</name>
+        <type>cumulative</type>
+        <unit>B</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656-vda</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2LXZkYStkaXNrLmRldmljZS53cml0
+ZS5ieXRlcw==
+</meter_id>
+    </item>
+    <item>
+        <name>disk.read.bytes</name>
+        <type>cumulative</type>
+        <unit>B</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K2Rpc2sucmVhZC5ieXRlcw==
+</meter_id>
+    </item>
+    <item>
+        <name>disk.device.read.bytes</name>
+        <type>cumulative</type>
+        <unit>B</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656-vda</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2LXZkYStkaXNrLmRldmljZS5yZWFk
+LmJ5dGVz
+</meter_id>
+    </item>
+    <item>
+        <name>disk.write.requests.rate</name>
+        <type>gauge</type>
+        <unit>request/s</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K2Rpc2sud3JpdGUucmVxdWVzdHMu
+cmF0ZQ==
+</meter_id>
+    </item>
+    <item>
+        <name>network.outgoing.bytes.rate</name>
+        <type>gauge</type>
+        <unit>B/s</unit>
+        <resource_id>nova-instance-instance-00000042-fa163e8b1cd7</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>bm92YS1pbnN0YW5jZS1pbnN0YW5jZS0wMDAwMDA0Mi1mYTE2M2U4YjFjZDcrbmV0d29yay5vdXRn
+b2luZy5ieXRlcy5yYXRl
+</meter_id>
+    </item>
+    <item>
+        <name>disk.write.bytes.rate</name>
+        <type>gauge</type>
+        <unit>B/s</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K2Rpc2sud3JpdGUuYnl0ZXMucmF0
+ZQ==
+</meter_id>
+    </item>
+    <item>
+        <name>network.outgoing.packets.rate</name>
+        <type>gauge</type>
+        <unit>packet/s</unit>
+        <resource_id>nova-instance-instance-00000042-fa163e8b1cd7</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>bm92YS1pbnN0YW5jZS1pbnN0YW5jZS0wMDAwMDA0Mi1mYTE2M2U4YjFjZDcrbmV0d29yay5vdXRn
+b2luZy5wYWNrZXRzLnJhdGU=
+</meter_id>
+    </item>
+    <item>
+        <name>disk.read.requests.rate</name>
+        <type>gauge</type>
+        <unit>request/s</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K2Rpc2sucmVhZC5yZXF1ZXN0cy5y
+YXRl
+</meter_id>
+    </item>
+    <item>
+        <name>disk.read.bytes.rate</name>
+        <type>gauge</type>
+        <unit>B/s</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K2Rpc2sucmVhZC5ieXRlcy5yYXRl
+</meter_id>
+    </item>
+    <item>
+        <name>network.incoming.packets.rate</name>
+        <type>gauge</type>
+        <unit>packet/s</unit>
+        <resource_id>nova-instance-instance-00000042-fa163e8b1cd7</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>bm92YS1pbnN0YW5jZS1pbnN0YW5jZS0wMDAwMDA0Mi1mYTE2M2U4YjFjZDcrbmV0d29yay5pbmNv
+bWluZy5wYWNrZXRzLnJhdGU=
+</meter_id>
+    </item>
+    <item>
+        <name>network.incoming.bytes.rate</name>
+        <type>gauge</type>
+        <unit>B/s</unit>
+        <resource_id>nova-instance-instance-00000042-fa163e8b1cd7</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>bm92YS1pbnN0YW5jZS1pbnN0YW5jZS0wMDAwMDA0Mi1mYTE2M2U4YjFjZDcrbmV0d29yay5pbmNv
+bWluZy5ieXRlcy5yYXRl
+</meter_id>
+    </item>
+    <item>
+        <name>cpu_util</name>
+        <type>gauge</type>
+        <unit>%</unit>
+        <resource_id>d9755425-5fbb-40f3-9935-46976ece4656</resource_id>
+        <project_id>9a9975e76f7d437992ae97781d5c95d0</project_id>
+        <user_id>56e00866ab694f148ea79707d691aff3</user_id>
+        <source>openstack</source>
+        <meter_id>ZDk3NTU0MjUtNWZiYi00MGYzLTk5MzUtNDY5NzZlY2U0NjU2K2NwdV91dGls
+</meter_id>
+    </item>
+</result>
