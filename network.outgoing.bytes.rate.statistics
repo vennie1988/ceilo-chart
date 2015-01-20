@@ -1,0 +1,17 @@
+<result>
+    <item>
+        <groupby nil="true" />
+        <unit>B/s</unit>
+        <min>0.0</min>
+        <max>0.69449081803</max>
+        <avg>0.00958525482165</avg>
+        <sum>27.0400038519</sum>
+        <count>2821</count>
+        <duration>1692602.0</duration>
+        <duration_start>2014-12-19T08:50:11</duration_start>
+        <duration_end>2015-01-07T23:00:13</duration_end>
+        <period>0</period>
+        <period_start>2014-12-19T08:50:11</period_start>
+        <period_end>2015-01-07T23:00:13</period_end>
+    </item>
+</result>
